@@ -6,7 +6,7 @@ description: "This is a collection of notable materials that are useful to learn
 
 # conferences
 
-## Oceania
+## oceania
 - https://lambdajam.yowconference.com.au/
 - https://www.composeconference.org/
 
