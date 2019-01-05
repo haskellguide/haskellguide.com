@@ -1,5 +1,5 @@
 ---
-description: "Kube is a professional  and a responsive Hugo theme for developers and designers that offers a documentation section mixed with a landing page and a blog"
-title: "Kube theme for Hugo"
+description: "Usage of basic functionality of Haskell dramatically improves software engineering quality but when people and companies start the journey they often find what's being discussed on social media and blogged about is astronaut territory. HaskellGuide.com fixes that. We provide practial guidance on how to use Haskell in industry and module based learning that teaches you how to optimise for approachable codebases that are easy understand and work with."
+title: "Haskell Guide"
 draft: false
 ---
