@@ -1,5 +1,5 @@
 ---
-description: "DevOps and application lifecycle best practices for your Haskell applications."
+description:
 title: "DevOps"
 draft: false
 weight: 200
