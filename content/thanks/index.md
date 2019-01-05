@@ -4,8 +4,7 @@ title : "Thanks"
 description: "These lovely people have made this website possible"
 ---
 
-If you want to see yourself in this list, send in a pull request! Every page on this website has an edit link (the octocat button) that lets you edit the blog post directly in the browser which automatically sends in a pull request. Alternatively just press `e` or [visit the repository](https://github.com/haskellguide/haskellguide.com) and send in a pull
-request the old fashioned way.
+If you want to see yourself in this list, send in a pull request! Every page on this website has an edit link (the octocat button) that enables you contribute directly from your browser. If you spot an opportunity to improve, we'd love to have it.
 
 <div class="contributors"></div>
 
