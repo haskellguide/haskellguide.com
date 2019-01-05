@@ -4,7 +4,7 @@ title: "Code of Conduct"
 draft: false
 ---
 
-If you’re being harassed, noticed someone else being harassed, or have any other concerns, please [contact us immediately](mailto:ghuntley@ghuntley.com). Your reports will be taken seriously and will not be dismissed or argued with. All members, committers and volunteers in this community are required to act according to the Code of Conduct. These guidelines help steer our interactions and strive to keep ReactiveUI a positive, growing project, community and help us provide and ensure a safe environment for everyone. When referring to a group of people, we aim to use gender-neutral terms like "team", "folks", "everyone". (For details, we recommend [this post](https://modelviewculture.com/pieces/gendered-language-feature-or-bug-in-software-documentation)).</p>
+Your reports will be taken seriously and will not be dismissed or argued with. All members, committers and volunteers in this community are required to act according to the Code of Conduct. These guidelines help steer our interactions and strive to keep ReactiveUI a positive, growing project, community and help us provide and ensure a safe environment for everyone. When referring to a group of people, we aim to use gender-neutral terms like "team", "folks", "everyone". (For details, we recommend [this post](https://modelviewculture.com/pieces/gendered-language-feature-or-bug-in-software-documentation)).</p>
 
 As contributors and maintainers of this project, and in the interest of
 fostering an open and welcoming community, we pledge to respect all people who
@@ -41,7 +41,7 @@ This Code of Conduct applies both within project spaces and in public spaces
 when an individual is representing the project or its community.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting a project maintainer. All
+reported by contacting Geoffrey Huntley <ghuntley@ghuntley.com>. All
 complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. Maintainers are
 obligated to maintain confidentiality with regard to the reporter of an
