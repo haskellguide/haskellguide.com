@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Kube for Hugo"
 theme = "kube"
 description = "Kube is a professional  and a responsive Hugo theme for developers and designers that offers a documentation section mixed with a landing page and a blog"
-Paginate = 4
+Paginate = 286
 [Params]
   RSSLink = "/index.xml"
   author = "newpixcom" # add your company name
@@ -12,26 +12,14 @@ Paginate = 4
   email = "ghuntley@ghuntley.com"
 
 [[menu.main]]
-    name = "About"
-    weight = -100
-    url = "/about/"
-[[menu.main]]
-    name = "Blog"
-    weight = -100
-    url = "/blog/"
-[[menu.main]]
-    name = "Contact"
-    weight = -100
-    url = "/contact/"
-[[menu.main]]
     name = "Learn Haskell"
-    weight = -100
+    weight = -200
     url = "/learn/"
 [[menu.main]]
-    name = "Guides"
+    name = "Haskell Guides"
     weight = -100
     url = "/guides/"
 [[menu.main]]
     name = "Community"
-    weight = -100
+    weight = 900
     url = "/community/"
