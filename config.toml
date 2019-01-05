@@ -20,6 +20,6 @@ Paginate = 286
     weight = -100
     url = "/guides/"
 [[menu.main]]
-    name = "Community"
+    name = "Anthology"
     weight = 900
-    url = "/community/"
+    url = "/anthology/"
