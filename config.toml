@@ -1,14 +1,14 @@
 baseURL = "/"
-languageCode = "en-us"
-title = "Haskell Guide"
+languageCode = "en-au"
+title = "HaskellGuide.com"
 theme = "kube"
-description = "Kube is a professional  and a responsive Hugo theme for developers and designers that offers a documentation section mixed with a landing page and a blog"
+description = "Usage of basic functionality of Haskell dramatically improves software engineering quality but when people and companies start the journey they often find what's being discussed on social media and blogged about is astronaut territory. HaskellGuide.com fixes that. We provide practial guidance on how to use Haskell in industry and module based learning that teaches you how to optimise for approachable codebases that are easy understand and work with."
 Paginate = 286
 [Params]
   RSSLink = "/rss"
-  author = "geoffreyhuntley" # add your company name
-  github = "haskellguides" # add your github profile name
-  twitter = "geoffreyhuntley" # add your twitter profile
+  author = "geoffreyhuntley"
+  github = "haskellguide" 
+  twitter = "geoffreyhuntley"
   email = "ghuntley@ghuntley.com"
 
 [[menu.main]]
