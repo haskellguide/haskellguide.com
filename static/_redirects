@@ -1,0 +1,12 @@
+# shortcodes
+/invite http://probot-invite.herokuapp.com/join/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJoYXNrZWxsZ3VpZGUiLCJpc3MiOjU2OTgwMCwicm9sZSI6Im1lbWJlciIsInRlYW1zIjpbIjMwNjQ4NjIiXSwiaWF0IjoxNTQ3MDMxMDY0fQ.we2Zv6lfsvEtZhrF7knXRzlR-s6WCRbhDh8nP-gY0j4
+/rss https://haskellguide.com/index.xml
+/support https://patreon.com/ghuntley
+
+# seo debt
+/index.xml /rss
+
+## redirect domain aliases to primary domain
+
+## redirect default Netlify subdomain to primary domain
+https://haskellguide.netlify.com/* https://haskellguide.com/:splat 301!
