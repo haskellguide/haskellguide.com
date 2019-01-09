@@ -17,6 +17,9 @@ description: "This is a collection of notable materials that are useful to learn
 
 # examples and exercises
 
+# papers
+- [idioms: applicative programming with effects](http://strictlypositive.org/Idiom.pdf)
+
 # performance
 
 # webassembly
