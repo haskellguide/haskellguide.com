@@ -1,3 +1,13 @@
+---
+description: ""
+title: "Haskell Style Guide"
+draft: false
+weight: 200
+bref:
+toc: true
+---
+
+
 # haskell guidelines
 
 ## Build Settings
