@@ -7,9 +7,6 @@ bref:
 toc: true
 ---
 
-
-# haskell guidelines
-
 ## Build Settings
 
 - prepend project names for internally developed libraries with `companyname-` in the cabal file
