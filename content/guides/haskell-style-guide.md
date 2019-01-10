@@ -296,6 +296,4 @@ In summary, I would prefer not to say this but I am going to make my position cl
 
 ## Tooling
 
-The `stylish-haskell` tool provides a sensible way of formatting code. The configuration `etc/.stylish-haskell.yml`
-can be copied into your home directory and once you have installed `stylish-haskell`, will format code as per the
-suggestions.
+The `stylish-haskell` tool provides a sensible way of formatting code. 
