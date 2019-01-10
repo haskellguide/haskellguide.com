@@ -1,12 +1,18 @@
+---
+description: ""
+title: "Serialization"
+draft: false
+weight: 200
+bref:
+toc: true
+---
 
 # domain types
 
 The problem of how to effectively isolate parts of a system, and provide a suitable maintainable solution to
 serialising Domain Types.
 
-First we accept and agree that we want a clear boundary between domains (contexts) and we
-want to provide increasing levels of trust as we move from a serialised document into the core domain types
-used in an application.
+First we accept and agree that we want a clear boundary between domains (contexts) and we want to provide increasing levels of trust as we move from a serialised document into the core domain types used in an application.
 
 The general structure conceptually would look like this when serialising.
 
