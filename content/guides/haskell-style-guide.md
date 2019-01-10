@@ -238,7 +238,7 @@ where a library we depend on changes its interface in some fashion, and our code
         other functions too, then if a function stops returning a particular case, it might not reault in a change in the type because another function
         that share the type may still return that case)
       - However, it still causes compile time errors for more interface changes than exceptions do.
-      - Hence `EitherT/ExceptT` over exceptions all the time please, regardless of what FP complete has dictated the "best practices" to be.
+      - Hence `EitherT/ExceptT` over exceptions all the time please.
       - Don't interpret `EitherT e IO a` as saying that all exceptions have been caught though please.
           - This type is explicitly saying that exceptions characterised by `e` have been caught, there might still
             be others thrown by `IO`, thats what it means when you see `IO` or `MonadThrow/MonadCatch` in a type signature.
