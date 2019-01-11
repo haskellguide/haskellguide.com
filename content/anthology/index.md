@@ -17,6 +17,9 @@ description: "This is a collection of notable materials that are useful to learn
 
 # examples and exercises
 
+# ide
+- https://github.com/alexwl/haskell-code-explorer
+
 # papers
 - [idioms: applicative programming with effects](http://strictlypositive.org/Idiom.pdf)
 
