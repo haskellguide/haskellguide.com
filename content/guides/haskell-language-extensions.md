@@ -1,5 +1,5 @@
 ---
-description: ""
+description: "Extensions are basically an explorative feature of haskell. Some are safe to use and some are not"
 title: "Haskell language extensions"
 draft: false
 weight: 200
