@@ -7,6 +7,9 @@ bref:
 toc: true
 ---
 
+# libraries
+- https://kowainik.github.io/posts/2019-01-14-tomland
+
 # domain types
 
 The problem of how to effectively isolate parts of a system, and provide a suitable maintainable solution to
