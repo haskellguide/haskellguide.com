@@ -19,8 +19,7 @@ toc: true
 - All main/production code in `/src`
 - All test source in `/test`
 - All main modules for project binaries in `/main`
-- Use [`haskell-mafia/mafia`](https://github.com/haskell-mafia/mafia) to build projects instead of `stack` (`mafia` doesn't require additional config and doesnt lock us into the entire
-  FP-Complete ecosystem, e.g. `intero` forces you to use `stack` in all your projects etc...)
+- Use [`haskell-mafia/mafia`](https://github.com/haskell-mafia/mafia) to build projects instead of `stack` (`mafia` doesn't require additional config
 - Sandboxes always (*sigh*)
 - git submodules to manage fetching and versioning of dependencies that we can't or don't want to use from hackage (`mafia` manages this)
 
