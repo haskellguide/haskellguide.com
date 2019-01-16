@@ -23,6 +23,9 @@ Relationship: Applicative-Monoid https://www.youtube.com/watch?v=RtYWKG_zZrM
 
 # datatype
 
+# hask
+In terms of category theory, Hask is the category of Haskell types and functions. The objects of Hask are Haskell types. See https://wiki.haskell.org/Hask
+
 # type
 
 # string
