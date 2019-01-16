@@ -24,7 +24,7 @@ Relationship: Applicative-Monoid https://www.youtube.com/watch?v=RtYWKG_zZrM
 # datatype
 
 # fold
-- https://wiki.haskell.org/Fold
+A fold deals with two things: a combining function, and a data structure, typically a list of elements. The fold then proceeds to combine elements of the data structure using the function in some systematic way. See https://wiki.haskell.org/Fold
 
 # hask
 In terms of category theory, Hask is the category of Haskell types and functions. The objects of Hask are Haskell types. See https://wiki.haskell.org/Hask
