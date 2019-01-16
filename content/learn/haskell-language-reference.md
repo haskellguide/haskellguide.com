@@ -48,3 +48,5 @@ String has exactly one use, and that’s showing Hello World in tutorials. For a
 - cannot be a sumtype
 - needs to have a constructor which can only take in a singular argument
 
+# acknowledgements
+- Uses content from https://wiki.haskell.org/HaskellWiki:Copyrights
