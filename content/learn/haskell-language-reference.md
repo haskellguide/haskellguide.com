@@ -21,5 +21,9 @@ Relationship: Applicative-Monoid https://www.youtube.com/watch?v=RtYWKG_zZrM
 
 - http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html (use pictures but descriptions about wrapping are incorrect/needs better descriptive language)
 
+# type
+
 # string
 String has exactly one use, and that’s showing Hello World in tutorials. For all other uses, Text is what people should be using.
+
+# newtype
