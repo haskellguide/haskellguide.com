@@ -23,6 +23,7 @@ Relationship: Applicative-Monoid https://www.youtube.com/watch?v=RtYWKG_zZrM
 
 # datatype
 
+
 # functor
 Representation of the mathematical functor: a mapping between categories in the context of category theory.
 
@@ -38,6 +39,9 @@ A fold deals with two things: a combining function, and a data structure, typica
 In terms of category theory, Hask is the category of Haskell types and functions. The objects of Hask are Haskell types.
 
 - https://wiki.haskell.org/Hask
+
+# lens
+- https://github.com/ekmett/lens/wiki/Derivation
 
 # type
 
