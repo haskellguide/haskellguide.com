@@ -46,7 +46,9 @@ In terms of category theory, Hask is the category of Haskell types and functions
 # type
 
 # string
-String has exactly one use, and that’s showing Hello World in tutorials. For all other uses, Text is what people should be using.
+String has exactly one use, and that’s showing Hello World in tutorials. For all other uses it is the wrong choice and you should instead you should use Text for encoded textual strings and ByteString if you are dealing with raw bites in memory.
+
+The default String type in Haskell is defined as type String = [Char], meaning a String is a list of characters. It has nothing to say about encodings, efficiency of storage (that list is going to be a linked list under the hood) or anything really that you would expect from a modern language. 
 
 # newtype
 - cannot be a sumtype
