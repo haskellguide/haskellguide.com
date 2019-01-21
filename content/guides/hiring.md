@@ -17,7 +17,7 @@ Based upon the [standardised ladder of functional programming](https://pbs.twimg
  Immutable Data       | Use second-order functions (map, filter, fold) on immutable data structures 
  Second-Order Functions | Destructure values to access their components 
  Constructing & Destructuring | Use data types to represents optionality 
- Function Compositiion | Read basic type signatures 
+ Function Composition | Read basic type signatures 
  First-Class Functions & Lambdas | Pass lambdas to second-order functions 
 
 
@@ -32,8 +32,8 @@ Based upon the [standardised ladder of functional programming](https://pbs.twimg
  Type Classes, Instances & Laws | Create type class instances for customer data types 
  Lower-Order Abstractions (Equal, Semigroup, Monoid) | Model a business domain with ADTs 
  Referential Transparency & Totality | Write functions that take and return functions 
- Higher-Order Functions | Reliably identify & isolate pure code from impure code 
- Partial-Application, Currying & Point-free Style | Avoid introducing unnecessary lambdas & names parameters 
+ Higher-Order Functions | Reliably identify and isolate pure code from impure code 
+ Partial-Application, Currying & Point-free Style | Avoid introducing unnecessary lambdas and named parameters 
 
 
 # competent
@@ -44,10 +44,10 @@ Based upon the [standardised ladder of functional programming](https://pbs.twimg
  Higher-Kinded Types | Test code using generators and properties 
  Rank-N Types | Write imperative code in a purely functional way through monads 
  Folds & Unfolds | Use popular purely functional libraries to solve business problems 
- Higher-Order Abstractions (Category, Functor, Monad) | Separate descision from effects 
+ Higher-Order Abstractions (Category, Functor, Monad) | Separate decision from effects 
  Basic Optics | Write a simple customer lawful monad 
  Efficient Persistent Data Structures | Write production medium-sized projects 
- Existential Types | Use lenses & prisms to manipulate data 
+ Existential Types | Use lenses and prisms to manipulate data 
  Embedded DSLs using Combinators | Simply types by hiding irrelevant data with existentials 
 
 
@@ -59,8 +59,8 @@ Based upon the [standardised ladder of functional programming](https://pbs.twimg
  (Co) Recursion Schemes | Write concurrent and streaming programs 
  Advanced Optics | Use purely functional mocking in tests 
  Dual Abstractions (Comonad) | User type classes to modularly model different effects 
- Monad Transformers | Recognize type patterns & abstract over them 
- Free Monads & Extensible Effects | User functional libraries in novel ways 
+ Monad Transformers | Recognise type patterns and abstract over them 
+ Free Monads & Extensible Effects | Use functional libraries in novel ways 
  Functional Architecture | Use optics to manipulate state 
  Advanced Functors (Exponential, Profunctors, Contravariant) | Write custom lawful monad transformers 
  Embedded DSLs using GADTs, Finally Tagless | Use free monads / extensible effects to separate concerns 
@@ -74,12 +74,12 @@ Based upon the [standardised ladder of functional programming](https://pbs.twimg
 ----------------------|------------------------
  High-Performance | Design a generic, lawful library with broad appeal 
  Kind Polymorphism | Prove properties manually using equational reasoning 
- Generic Programming | Design & implement a new functional programming language 
+ Generic Programming | Design and implement a new functional programming language 
  Type-Level Programming | Create novel abstractions with laws 
  Dependent-Types, Singleton Types | Write distributed systems with certain guarantees 
  Category Theory | Use proof systems to formally prove properties of code 
  Graph Reduction | Create libraries that do not permit invalid states 
  Higher-Order Abstract Syntax | Use dependent-typing to prove more properties at compile-time 
  Compiler Design for Functional Languages | Understand deep relationships between different concepts
- Profunctor Optics | Profile, debug & optimise purely functional code with minimal sacrifices
+ Profunctor Optics | Profile, debug and optimise purely functional code with minimal sacrifices
 
