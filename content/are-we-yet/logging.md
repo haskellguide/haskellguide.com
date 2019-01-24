@@ -1,6 +1,6 @@
 ---
 draft: false
-title : "JSON Support"
+title : "Logging"
 description: ""
 ---
 
