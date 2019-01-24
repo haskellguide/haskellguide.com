@@ -21,5 +21,9 @@ Paginate = 286
     url = "/guides/"
 [[menu.main]]
     name = "Anthology"
-    weight = 900
+    weight = -50
     url = "/anthology/"
+[[menu.main]]
+    name = "Are we yet?"
+    weight = 0
+    url = "/are-we-yet/"

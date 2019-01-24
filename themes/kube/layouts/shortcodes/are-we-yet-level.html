@@ -1,0 +1,50 @@
+{{ if .IsNamedParams }}
+    {{ if .Get "level" | eq 0 }}
+
+    <span class="level-indicator level-{{.Get "level"}}" title="everything is awesome: stable, tested and mature">
+        <i class="fa fa-check-circle"></i>
+    </span>
+
+    {{ end }}
+    {{ if .Get "level" | eq 1 }}
+
+    <span class="level-indicator level-{{.Get "level"}}" title="pretty great already" >
+        <i class="fa fa-check-circle-o"></i>
+    </span>
+
+    {{ end }}
+    {{ if .Get "level" | eq 2 }}
+
+    <span class="level-indicator level-{{.Get "level"}}" title="getting there, stable but still maturing" >
+        <i class="fa fa-chevron-circle-up"></i>
+    </span>
+
+    {{ end }}
+    {{ if .Get "level" | eq 3 }}
+
+    <span class="level-indicator level-{{.Get "level"}}" title="not yet stable, but progressing">
+        <i class="fa fa-dot-circle-o"></i>
+    </span>
+
+    {{ end }}
+    {{ if .Get "level" | eq 4 }}
+
+    <span class="level-indicator level-{{.Get "level"}}" title="unstable/incomplete, needs work">
+        <i class="fa fa-dot-circle-o"></i>
+    </span>
+
+    {{ end }}
+    {{ if .Get "level" | eq 5 }}
+
+    <span class="level-indicator level-{{.Get "level"}}" title="varely there, needs serious work">
+        <i class="fa fa-dot-circle-o"></i>
+    </span>
+
+    {{ end }}
+{{ else }}
+
+    <span class="level-indicator level-{{.Get "level"}}" title="basically non-existent">
+        <i class="fa fa-times-circle"></i>
+    </span>
+
+{{ end }}
