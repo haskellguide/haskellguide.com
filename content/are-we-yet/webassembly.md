@@ -1,6 +1,6 @@
 ---
 draft: false
-title : "External Web APIs"
+title : "WebAssembly"
 description: ""
 ---
 
