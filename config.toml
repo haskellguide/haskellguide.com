@@ -24,6 +24,6 @@ Paginate = 286
     weight = -50
     url = "/anthology/"
 [[menu.main]]
-    name = "Are we yet?"
+    name = "Are we ... yet?"
     weight = 0
     url = "/are-we-yet/"
