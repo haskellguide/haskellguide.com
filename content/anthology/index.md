@@ -6,6 +6,7 @@ description: "This is a collection of notable materials that are useful to learn
 
 * http://dev.stephendiehl.com/hask/
 * https://liquid.kosmikus.org
+* https://github.com/krispo/awesome-haskell
 
 # conferences
 
