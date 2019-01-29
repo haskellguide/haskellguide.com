@@ -20,10 +20,10 @@ Paginate = 286
     weight = -100
     url = "/guides/"
 [[menu.main]]
-    name = "Anthology"
+    name = "State of the Ecosystem"
     weight = -50
-    url = "/anthology/"
+    url = "https://github.com/Gabriel439/post-rfc/blob/master/sotu.md"
 [[menu.main]]
-    name = "Are we ... yet?"
+    name = "Anthology"
     weight = 0
-    url = "/are-we-yet/"
+    url = "/anthology/"
