@@ -7,6 +7,8 @@ bref:
 toc: true
 ---
 
+https://kowainik.github.io/posts/2019-02-06-style-guide
+
 ## Build Settings
 
 - prepend project names for internally developed libraries with `companyname-` in the cabal file
