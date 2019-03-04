@@ -20,6 +20,9 @@ description: "This is a collection of notable materials that are useful to learn
 
 # examples and exercises
 
+# exceptions
+- https://markkarpov.com/tutorial/exceptions.html
+
 # ide
 - https://github.com/alexwl/haskell-code-explorer
 
